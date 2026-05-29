@@ -201,3 +201,6 @@ Front-End Developer apaixonada por tecnologia, design de interfaces e soluções
 Este projeto está sob a licença MIT.
 
 Sinta-se à vontade para estudar, modificar e contribuir.
+
+
+Projeto desenvolvido em vibe coding para ser usado em sala de aula (sugestão de aluno)
